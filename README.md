@@ -1,4 +1,4 @@
-# 🎭 Playwright with JavaScript - Test Automation University
+# 🎭 Playwright with JavaScript - Test Automation
 This repo contain an example framework with playwright
 
 #  Pre-requisites
